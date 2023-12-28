@@ -8,10 +8,10 @@
 <body>
 
 <?php
-$host = 'localhost';
-$username = 'root';
-$password = '';
-$database = 'videodb';
+$host = '129.168.1.160';
+$username = 'phpmyadmin';
+$password = 'yjtGB_]Q3xcLF*oZ';
+$database = 'webcam';
 
 $conn = new mysqli($host, $username, $password, $database);
 
